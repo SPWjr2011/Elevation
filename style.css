@@ -1,0 +1,55 @@
+
+p{
+    font-family: sans-serif;
+}
+hr{
+    color: black;
+}
+#supportbtn{
+    position: absolute;
+    top: 60px;
+    left: 315px;
+}
+
+button:active{
+    background-color: white;
+}
+#cont_title{
+    text-shadow: 5px 5px 5px;
+    position: absolute;
+    left: 700px;
+}
+#supporttxt{
+    position: absolute;
+    left: 350px;
+    top: 50px;
+}
+#cont{
+    text-shadow: 5px 5px 5px;
+    position: absolute;
+    left: 600px;
+    top: 200px;
+}
+#salesbtn{
+    position: absolute;
+    top: 60px;
+    left: 468.5px;
+}
+#salesbtntxt{
+    position: absolute;
+    left: 480px;
+    top: 50px;
+}
+#amoniaprice{
+    position: absolute;
+    background-color: white;
+    border: 5px solid;
+    width: 125px;
+    height: 200px;
+    font-size: large;
+}
+#menu{
+    border: 5px solid;
+    background: linear-gradient(lightgreen, green);
+    width: 1520px;
+}
